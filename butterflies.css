@@ -15,7 +15,7 @@ body, html, #app {
 }
 
 #app h3 {
-  --fontSize: 30px;
+  --fontSize: 200%;
   --lineHeight: 70px;
   width: auto;
   height: calc(2 * var(--lineHeight));
@@ -88,3 +88,4 @@ h3 span {
 	font-size: 20px;
 	z-index: 100;
 }
+
